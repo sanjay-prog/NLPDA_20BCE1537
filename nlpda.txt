@@ -1,0 +1,7 @@
+In 2015, SpaceX began development of the Starlink constellation of low-Earth-orbit satellites to provide satellite Internet access, with the first two prototype satellites launched in February 2018.
+A second set of test satellites, and the first large deployment of a piece of the constellation, occurred in May 2019, when the first 60 operational satellites were launched.
+The total cost of the decade-long project to design, build, and deploy the constellation is estimated by SpaceX to be about $10 billion.
+Some critics, including the International Astronomical Union, have alleged that Starlink blocks the view of the sky and poses a collision threat to spacecraft.
+During the 2022 Russian invasion of Ukraine, Musk sent Starlink terminals to Ukraine to provide Internet access and communication.
+However, Musk refused to block Russian state media on Starlink, declaring himself "a free speech absolutist".
+In October 2022, Musk stated that about 20,000 satellite terminals had been donated to Ukraine, together with free data transfer subscriptions, which cost SpaceX $80 million. After asking the United States Department of Defense to pay for further units and future subscriptions on behalf of Ukraine, Musk publicly stated that SpaceX would continue to provide Starlink to Ukraine for free, at a yearly cost to itself of $400 million
